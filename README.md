@@ -1,4 +1,5 @@
 # UsabilityHub_clone
-Fronted end
-UsabilityHub clone
-Technology used HTML, CSS, RESPONSIVENESS
+Fronted end,
+UsabilityHub clone,
+Technology used HTML, CSS, RESPONSIVENESS using mediaQuery
+
